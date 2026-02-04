@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cypress": "^15.9.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "open": "cypress open"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.4",
+    "mochawesome-merge": "^5.1.0",
+    "mochawesome-report-generator": "^6.3.2"
+  }
+}
